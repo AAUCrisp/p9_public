@@ -25,5 +25,10 @@ replay_pid*
 
 
 # Personal Setup
+.gradle/*
+.idea/*
+.kotlin/*
+app/*
 media/*
+__pycache__/*
 **/__pycache__/*
